@@ -1,2 +1,2 @@
 # myFirstRepo
-## Scott Hadzik
+## Wendel Pineda
